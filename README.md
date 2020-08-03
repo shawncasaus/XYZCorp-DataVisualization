@@ -1,8 +1,8 @@
 # CSE-578-DataVisualization
-##Course Project
-##Introduction
+## Course Project
+## Introduction
 In this team project, you will create data visualizations to answer a customer ask.
-##Customer Ask
+## Customer Ask
 XYZ Corporation uses data to develop marketing profiles on people. These profiles are then
 sold to numerous companies for marketing purposes. You work at XYZ as part of a team of data
 analysts. Your team has just been given a new project working with UVW College, a local
@@ -23,8 +23,8 @@ team wants to group the factors that can be used in the development of their pro
 model/application. They also want the application to predict the income of an individual based
 on different values of the input parameters so that they can tailor their marketing efforts when
 reaching out to the individuals.
-##Project Description
-###You will use the following dataset to complete the project.
+## Project Description
+### You will use the following dataset to complete the project.
 Dataset: https://archive.ics.uci.edu/ml/machine-learning-databases/adult/
-###Description of the column names:
+### Description of the column names:
 https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.names
