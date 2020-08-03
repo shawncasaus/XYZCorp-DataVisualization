@@ -1,5 +1,4 @@
-# CSE-578-DataVisualization
-## Course Project
+# CSE-578-DataVisualization Course Project
 ## Introduction
 In this team project, you will create data visualizations to answer a customer ask.
 ## Customer Ask
